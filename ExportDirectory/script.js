@@ -4,6 +4,6 @@
 //     console.log("hello",i);
 // }
 
-const fruits =require("./ExportDirectory")
+const fruits =require("./Fruits")
 console.log(fruits);
 // console.log(process.argv);
